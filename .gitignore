@@ -1,0 +1,9 @@
+Debug/
+settings/
+*.html
+*.chm
+*.dep
+*.ewd
+*.ewp
+*.ewt
+*.eww
